@@ -1,4 +1,5 @@
 import popupMethods from './popup.js';
+import listenersMethods from './listeners.js';
 
 const dataMethods = {
 	// Объект для хранения данных _______________________________
@@ -130,6 +131,9 @@ const dataMethods = {
 					completed.appendChild(clonedContainer);
 				}
 			});
+
+			listenersMethods.delivery__status();
+			listenersMethods.delivery__delete();
 	},
 
 	// Отчистка секций _______________________________

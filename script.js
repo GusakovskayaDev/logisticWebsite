@@ -5,8 +5,6 @@ import listenersMethods from './scripts/listeners.js';
 function addEventListeners() {
 		listenersMethods.popup__container();
 		listenersMethods.sidebar__add();
-		listenersMethods.delivery__delete();
-		listenersMethods.delivery__status();
 }
 
 // Открытие секций при клике на пункты в меню _______________________________________
