@@ -140,6 +140,9 @@ body{
 	box-shadow: 2px 0px 6px rgba(0, 0, 0, 0.1);
 	padding: 20px;
 }
+.sidebar__title{
+	color: var(--color-primary);
+}
 .sidebar__menu{
 	margin-top: 40px;
 	list-style-type: none;
