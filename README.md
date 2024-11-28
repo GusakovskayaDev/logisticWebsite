@@ -17,16 +17,16 @@ JavaScript и программирование
   - event bubbling (Event Bubbling Handling)
 
 Системы хранения и структурирования данных
-    - Работа с локальным хранилищем (LocalStorage)
-    - Структурированное хранение данных (Structured Data Storage)
-    - Модульный подход (Modular Approach)
-    - Импорт и экспорт модулей (Module Import/Export)
+  - Работа с локальным хранилищем (LocalStorage)
+  - Структурированное хранение данных (Structured Data Storage)
+  - Модульный подход (Modular Approach)
+  - Импорт и экспорт модулей (Module Import/Export)
 
 Разработка интерфейсов и UX/UI
-    - Темизация интерфейса (Theming Interfaces)
-    - Адаптивность и кроссбраузерность (Responsiveness and Cross-Browser Compatibility)
-    - media запросы (Media Queries)
-    - работа с библиотекой `material-symbols-outlined` (Material Symbols Outlined Library Usage)
+  - Темизация интерфейса (Theming Interfaces)
+  - Адаптивность и кроссбраузерность (Responsiveness and Cross-Browser Compatibility)
+  - media запросы (Media Queries)
+  - работа с библиотекой `material-symbols-outlined` (Material Symbols Outlined Library Usage)
 
 Архитектура и паттерны разработки
   - Шаблон проектирования "Фабрика" (Factory Design Pattern)
